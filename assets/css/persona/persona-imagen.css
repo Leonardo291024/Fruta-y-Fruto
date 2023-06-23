@@ -8,7 +8,7 @@
     border-radius: 100%;
 }
 
-.persona__imagen--roberta{
+/*.persona__imagen--roberta{
     background-image: url(/assets/personas/roberta.jpg);
 }
 
@@ -18,7 +18,7 @@
 
 .persona__imagen--andreia{
     background-image: url(/assets/personas/andrea.jpg);
-}
+}*/
 
 @media screen and (min-width: 768px) {
     .persona__imagen{

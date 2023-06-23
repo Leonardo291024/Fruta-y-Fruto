@@ -12,11 +12,19 @@
         padding: 0 1rem;
         justify-content: center;
     }
+
+    .cabezera img{
+        display: none;
+    }
 }
 
 @media screen and (min-width: 768px) {
     .cabezera{
         padding: 0 5rem;
         justify-content: space-between;
+    }
+
+    .cabezera img{
+        display: block;
     }
 }

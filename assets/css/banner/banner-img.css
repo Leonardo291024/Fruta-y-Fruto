@@ -1,20 +1,4 @@
-.banner__imagen{
-   /* background-image: url(/assets/banner.png);*/
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+.banner__imagen img{
     width: 100%;
 }
 
-@media screen and (min-width: 0) {
-    .banner__imagen{
-        height: calc(100vh - 41px);
-    }
-}
-
-
-@media screen and (min-width: 768px) {
-     .banner__imagen{
-        height: calc(100vh - 72px);
-    }
-}

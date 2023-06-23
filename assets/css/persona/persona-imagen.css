@@ -8,6 +8,10 @@
     border-radius: 100%;
 }
 
+.persona__imagen img{
+    border-radius: 50%;
+}
+
 /*.persona__imagen--roberta{
     background-image: url(/assets/personas/roberta.jpg);
 }

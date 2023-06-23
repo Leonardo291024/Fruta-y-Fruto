@@ -4,7 +4,7 @@
     position: absolute;
     left: 50%;
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
-    top: 50%;
+    top: 45%;
     text-align: center;
     transform: translate(-50%, -50%);
     width: 100%;
@@ -12,7 +12,7 @@
 
 @media screen and (min-width: 0) {
     .banner__titulo{
-      font-size: 3rem;;
+      font-size: 2rem;
     }
 }
 

@@ -2,3 +2,18 @@
     padding: 5rem;
     text-align: center;
 }
+
+@media screen and (min-width: 0) {
+    .quienes{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .quienes{
+        display: flex;
+        flex-direction: column;
+    }
+}
